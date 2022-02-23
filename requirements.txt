@@ -8,3 +8,6 @@ pandas
 typing 
 pydantic 
 sklearn
+gunicorn
+uvloop
+httptools
