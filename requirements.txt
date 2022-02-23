@@ -4,8 +4,7 @@ python-dotenv
 python-multipart
 requests
 uvicorn
-pandas 
-basemodel
+pandas
 typing 
 pydantic 
 sklearn
