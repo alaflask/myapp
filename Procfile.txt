@@ -1,1 +1,1 @@
-worker: python projet.py
+worker: python.exe projet.py
